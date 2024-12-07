@@ -1,0 +1,22 @@
+HTTrack3.49-2 launched on Sat, 07 Dec 2024 21:08:49 at https://transvelo.github.io/mediacenter-html/index.html
+(httrack https://transvelo.github.io/mediacenter-html/index.html -O /Users/thiemdao/Desktop/project/theme/mediacenter )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:10:58	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/cart.html&style=alt2 (from https://transvelo.github.io/mediacenter-html/index.html)
+21:10:58	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/assets/fonts/glyphicons-halflings-regular.eot (from https://transvelo.github.io/mediacenter-html/assets/css/bootstrap.min.css)
+21:10:58	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/assets/fonts/glyphicons-halflings-regular.eot? (from https://transvelo.github.io/mediacenter-html/assets/css/bootstrap.min.css)
+21:10:58	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/assets/fonts/glyphicons-halflings-regular.woff2 (from https://transvelo.github.io/mediacenter-html/assets/css/bootstrap.min.css)
+21:10:58	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/assets/fonts/glyphicons-halflings-regular.woff (from https://transvelo.github.io/mediacenter-html/assets/css/bootstrap.min.css)
+21:10:58	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/assets/fonts/glyphicons-halflings-regular.ttf (from https://transvelo.github.io/mediacenter-html/assets/css/bootstrap.min.css)
+21:10:58	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/assets/fonts/glyphicons-halflings-regular.svg (from https://transvelo.github.io/mediacenter-html/assets/css/bootstrap.min.css)
+21:10:58	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/assets/css/owl.video.play.png (from https://transvelo.github.io/mediacenter-html/assets/css/owl.carousel.css)
+21:10:58	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/home.html (from https://transvelo.github.io/mediacenter-html/single-product.html)
+21:10:58	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/cart.html.html (from https://transvelo.github.io/mediacenter-html/wishlist.html)
+21:10:58	Error: 	"Not Found" (404) at link https://transvelo.github.io/mediacenter-html/index.php?page=compaore (from https://transvelo.github.io/mediacenter-html/compare.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 9 seconds : 128 links scanned, 116 files written (5106396 bytes overall) [3013095 bytes received at 23357 bytes/sec], 3585042 bytes transferred using HTTP compression in 67 files, ratio 23%, 32.0 requests per connection
+(11 errors, 0 warnings, 0 messages)
